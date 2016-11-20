@@ -1,0 +1,6 @@
+framework module Pods_MyPodLQBMyPod_Tests {
+  umbrella header "Pods-MyPodLQBMyPod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

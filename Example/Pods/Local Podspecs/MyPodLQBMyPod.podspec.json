@@ -1,0 +1,22 @@
+{
+  "name": "MyPodLQBMyPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyPodLQBMyPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/MyPodLQBMyPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李庆彬": "13681551812@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/MyPodLQBMyPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyPodLQBMyPod/Classes/**/*"
+}

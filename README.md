@@ -1,9 +1,9 @@
-# MyPod
+# MyPodLQBMyPod
 
-[![CI Status](http://img.shields.io/travis/李庆彬/MyPod.svg?style=flat)](https://travis-ci.org/李庆彬/MyPod)
-[![Version](https://img.shields.io/cocoapods/v/MyPod.svg?style=flat)](http://cocoapods.org/pods/MyPod)
-[![License](https://img.shields.io/cocoapods/l/MyPod.svg?style=flat)](http://cocoapods.org/pods/MyPod)
-[![Platform](https://img.shields.io/cocoapods/p/MyPod.svg?style=flat)](http://cocoapods.org/pods/MyPod)
+[![CI Status](http://img.shields.io/travis/李庆彬/MyPodLQBMyPod.svg?style=flat)](https://travis-ci.org/李庆彬/MyPodLQBMyPod)
+[![Version](https://img.shields.io/cocoapods/v/MyPodLQBMyPod.svg?style=flat)](http://cocoapods.org/pods/MyPodLQBMyPod)
+[![License](https://img.shields.io/cocoapods/l/MyPodLQBMyPod.svg?style=flat)](http://cocoapods.org/pods/MyPodLQBMyPod)
+[![Platform](https://img.shields.io/cocoapods/p/MyPodLQBMyPod.svg?style=flat)](http://cocoapods.org/pods/MyPodLQBMyPod)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-MyPod is available through [CocoaPods](http://cocoapods.org). To install
+MyPodLQBMyPod is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "MyPod"
+pod "MyPodLQBMyPod"
 ```
 
 ## Author
@@ -26,4 +26,4 @@ pod "MyPod"
 
 ## License
 
-MyPod is available under the MIT license. See the LICENSE file for more info.
+MyPodLQBMyPod is available under the MIT license. See the LICENSE file for more info.

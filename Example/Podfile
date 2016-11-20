@@ -1,9 +1,9 @@
 use_frameworks!
 
-target 'MyPod_Example' do
-  pod 'MyPod', :path => '../'
+target 'MyPodLQBMyPod_Example' do
+  pod 'MyPodLQBMyPod', :path => '../'
 
-  target 'MyPod_Tests' do
+  target 'MyPodLQBMyPod_Tests' do
     inherit! :search_paths
 
     

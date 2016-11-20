@@ -1,16 +1,16 @@
 PODS:
-  - MyPod (0.1.0)
+  - MyPodLQBMyPod (0.1.0)
 
 DEPENDENCIES:
-  - MyPod (from `../`)
+  - MyPodLQBMyPod (from `../`)
 
 EXTERNAL SOURCES:
-  MyPod:
+  MyPodLQBMyPod:
     :path: ../
 
 SPEC CHECKSUMS:
-  MyPod: 841db49a9b340b7440d7fc48af739147fb8975b2
+  MyPodLQBMyPod: a4b764b180c6580dbf2c633befd174edddd9b8e4
 
-PODFILE CHECKSUM: 24658dd0075c1e87b2724d44e75ace1d1d9fd982
+PODFILE CHECKSUM: d5982d9d19d65f4c967069a4eb91540cb1e73488
 
 COCOAPODS: 1.1.1

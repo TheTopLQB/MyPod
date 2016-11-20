@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import MyPod
+import MyPodLQBMyPod
 
 class Tests: XCTestCase {
     

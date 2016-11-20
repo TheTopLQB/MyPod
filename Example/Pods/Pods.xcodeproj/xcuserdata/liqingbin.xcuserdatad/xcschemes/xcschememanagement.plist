@@ -4,17 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MyPod.xcscheme</key>
+		<key>MyPodLQBMyPod.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-MyPod_Example.xcscheme</key>
+		<key>Pods-MyPodLQBMyPod_Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-MyPod_Tests.xcscheme</key>
+		<key>Pods-MyPodLQBMyPod_Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -22,17 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5F1A6854CB1DC9D544E1405EAE48708E</key>
+		<key>22D801DC5F6FA8E120FA5ADE76E8DEBA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8C82BB54A9364DF5703E52764F92EE2A</key>
+		<key>635040EA8E69A0CC67697A2E6F9FD107</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CDEB47512DDB1C5BE622639312D37DA2</key>
+		<key>E0D334E85DFAA9AE9639DA8237FFF097</key>
 		<dict>
 			<key>primary</key>
 			<true/>
