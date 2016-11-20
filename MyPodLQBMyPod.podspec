@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = [
-    'Pod/Classes/*.swift'
+    'MyPodLQBMyPod/Classes/*.swift'
     ]
 
   # s.resource_bundles = {
