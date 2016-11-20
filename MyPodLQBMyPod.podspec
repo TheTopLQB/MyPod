@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyPodLQBMyPod'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'a Pod'
 
 # This description is used to generate tags and improve search results.
@@ -24,8 +24,10 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MyPodLQBMyPod/Classes/**/*'
-  
+  s.source_files = [
+    'Pod/Classes/*.swift'
+    ]
+
   # s.resource_bundles = {
   #   'MyPodLQBMyPod' => ['MyPodLQBMyPod/Assets/*.png']
   # }
